@@ -9,4 +9,6 @@ git branch -M main
 git remote add origin https://github.com/Piyushthug/Git_Learning.git
 git push -u origin main
 
-
+git add .
+git commit -m "1st add and push"
+ git push
