@@ -3,3 +3,10 @@
 Hello my name is piyush
 
 colour : red;
+new line added
+
+git branch -M main
+git remote add origin https://github.com/Piyushthug/Git_Learning.git
+git push -u origin main
+
+
